@@ -1,4 +1,86 @@
 % !TeX root = main.tex
 \section{Materials and Methods} \label{sec:materials}
 
-\subsection{Study Design}
+\subsection{Corpus Construction}
+This study analyzes a dataset of 1,340 headlines from different official news sources. The aim is to examine the presence of 'alarmist' 
+framing in the coverage of the DANA event. The unit of analysis defined is the \textbf{journalistic headline} and in the case of social media,
+a sample for \textit{n-words} is taken from the post. The study period covers from 29th October to 30 November 2024, separating the data into
+two periods: the first from 29th October to 4th November (\textit{Impact}), and the second from 5th November to 30th November (\textit{Post}). 
+This division allows for a comparative analysis of the framing used in the immediate aftermath of the DANA event and in the subsequent weeks.
+
+
+To ensure an appropriate representation of Spanish media ecosystem, the data set includes headlines from a variety of sources,
+which include national and local scopes. The data set includes headlines from the following media outlets:
+
+\begin{tabular}{c c}
+\centering
+    
+    \textbf{Media Type} & \textbf{Media Outlet} \\
+    \hline
+    National Newspapers & \\
+    Local Newspapers & \textit{Las Provincias, Levante EVM, El Mediterráneo, 
+    Torrent al día, Valencia Plaza} \\
+    Local Radio & \\
+    National Radio & \textit{La Cope, La Ser, Onda Cero} \\
+    Local TV & \textit{7TeleValencia, À Punt, LaOchoTv} \\
+    National TV & \textit{Antena 3, Telecinco, La Sexta, RTVE, Cuatro} \\
+    Social Media & \textit{X, Facebook, Tiktok } \\
+    \hline
+\end{tabular}
+
+Data collection followed a reproducible procedure based on structured search queries. Whenever possible, the \textit{Advanced Google
+Search Engine} was used, combining boolean operators and site domains. When this method was insufficient and provided poor results,
+internal search engines of media sites were used specifically in social media. A limitation was encountered in the case of 
+Instagram, as the platform currently does not provide a reliable date-filtering mechanism comparable to
+search engines or other social media platforms such as X (Twitter). This constraint makes it difficult to reproduce the same sampling
+procedure, as result we decided to exclude this social media from the final corpus construction.
+
+
+The general search pattern was as follows:
+
+\begin{tcolorbox}[colback=gray!10,colframe=black]
+\centering
+\texttt{(dana OR "gota fría" OR lluvias OR torrenciales) AND Valencia AND 2024 site:<domain>}
+\end{tcolorbox}
+
+Explicit criteria were defined to ensure consistency across the headlines collected.
+
+\paragraph{Inclusion Criteria}
+\begin{itemize}
+    \item Explicit reference to the phenomenon under study: DANA or heavy rainfall in Valencia
+    \item Publication within the defined temporal window
+    \item Headlines must originate from verifiable sources (URL or platform identifier)
+    \item For social media: a minimum relevance threshold ($\geq 1000$ interactions, such as likes or shares)
+\end{itemize}
+
+\paragraph{Exclusion Criteria}
+\begin{itemize}
+    \item Irrelevant or ambiguous content not directly related to the event
+    \item Duplicated entries or republished content
+    \item News outside the temporal scope
+    \item Non-comparable formats lacking a clean headline structure (except for social media)
+\end{itemize}
+
+
+The sampling strategy consisted of selecting the first 50 relevant headlines per outlet, ordered according to their 
+appearance in the search results and constrained by the predefined inclusion criteria. In cases where media outlets did
+not yield sufficient results within the defined temporal window, only those headlines meeting the inclusion criteria were 
+retained. Therefore, the number of observations varies across outlets, with some sources contributing fewer than the intended 
+50 headlines.
+
+Following the data collection process, a structured database was constructed in which each observation corresponds to an individual headline. 
+The final corpus comprises \num{1400} headlines. For each observation, a set of variables was defined: the \textit{media outlet}(source name), publication date, 
+and the full headline text. Additionally, other categorical variables were incorporated, such as \textit{media type} (e.g., press, radio, television, or 
+social media) and the temporal \textit{phase} of the event (impact or post-event stage). The dataset also includes an estimate 
+of audience reach and the corresponding URL linking to the original content. The information related to audiences was collected from ... 
+
+\subsection{Data Preprocesing}
+
+\paragraph{Text Normalization and Linguistic Processing}
+
+Prior to analysis, a text standardization process was applied to ensure consistency and reduce noise. The cleaning procedure
+ included converting all text to lowercase, replacing punctuation with whitespace, collapsing multiple whitespace characters into a 
+ single space, and removing residual special characters. 
+
+For social media content, additional preprocessing steps were implemented, including the removal of 
+hashtags (\textit{\#}), mentions (\textit{@}), emojis, and other non-linguistic symbols.
