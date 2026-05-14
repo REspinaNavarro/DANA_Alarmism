@@ -1,0 +1,113 @@
+\documentclass[12pt]{article}
+
+\usepackage{amsmath, amssymb}
+\usepackage{mathtools}
+\usepackage{overpic}
+\usepackage{float}
+\usepackage{makecell}
+\usepackage{etoolbox}
+\usepackage{wasysym}
+\robustify\diameter
+\usepackage{siunitx}
+\sisetup{range-phrase=\,--\,, input-comparators = \diameter}
+\usepackage{hyperref}
+\usepackage{booktabs}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[
+    backend=biber, style=numeric,
+    sorting=none, url=false, isbn=false]{biblatex}
+\addbibresource{refs.bib}
+\usepackage{authblk}
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\Z}{\mathbb{Z}}
+\newcommand{\Q}{\mathbb{Q}}
+\newcommand{\C}{\mathbb{C}}
+\newcommand{\ii}{\mathrm{i}}
+\newcommand{\mean}[1]{\overline{#1}}
+\renewcommand{\bold}[1]{\mathbf{#1}}
+
+\mathtoolsset{showonlyrefs}
+
+\DeclarePairedDelimiter{\abs}{\lvert}{\rvert}
+\DeclarePairedDelimiter{\norm}{\lVert}{\rVert}
+\DeclarePairedDelimiter{\japan}{\langle}{\rangle}
+
+\DeclareMathOperator{\BigO}{\mathcal{O}}
+\DeclareMathOperator{\Exp}{\mathrm{Exp}}
+\DeclareMathOperator{\E}{\boldsymbol{E}}
+
+%--------- side numbering ------- 
+\iffalse
+\usepackage{tikz,everypage}
+\AtBeginDocument{%
+  \AddEverypageHook{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \path (current page.north west) --  (current page.south west) \foreach \i in {1,...,\fakelinenos} { node [pos={(\i-.5)/\fakelinenos},xshift=\fakelinenoshift, line number style] {\i} }  ;
+    \end{tikzpicture}%
+  }%
+}
+\tikzset{%
+  line numbers/.store in=\fakelinenos,
+  line numbers=65,
+  line number shift/.store in=\fakelinenoshift,
+  line number shift=30mm,
+  line number style/.style={text=gray},
+}
+\fi
+%--------- side numbering ------- 
+
+\title{Predicting the Reliability of Drilling Tools in Mining: A Bayesian Approach}
+
+\author[1]{Reinaldo Espina-Navarro}
+\author[2]{Joaquín Martínez-Minaya}
+
+\affil[1]{Basque Center for Applied Mathematics (BCAM), Bilbao, Basque Country -- Spain}
+\affil[2]{Department of Applied Statistics, Operational Research and Quality, Universitat Politècnica de València, Valencia -- Spain 
+}
+
+\setcounter{Maxaffil}{0}
+\renewcommand\Affilfont{\itshape\small}
+
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+
+
+\end{abstract}
+
+
+\input{materials}
+%\input{preli}
+%\input{preprocessing}
+%\input{model}
+%\input{comparison}
+
+\section{Conclusions}
+
+We conclude that....
+
+
+\subsection*{External data}
+
+The experimetal dataset is available at....
+
+
+\subsection*{Funding}
+
+BCAM researcher is supported
+by the Basque Government [BERC 2022-2025 program]; and
+by the ``Severo Ochoa'' accreditation CEX2021-001142-S.
+Additionally, Reinaldo Espina-Navarro is supported by the Provincial Council of Bizkaia.
+
+
+\subsection*{Acknowledgements}
+
+The authors wish to thank ...
+
+\printbibliography
+
+\end{document}
