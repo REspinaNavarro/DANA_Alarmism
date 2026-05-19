@@ -3,7 +3,7 @@
 
 \subsection{Corpus Construction}
 This study analyzes a dataset of 1,340 headlines from different official news sources. The aim is to examine the presence of 'alarmist' 
-framing in the coverage of the DANA event. The unit of analysis defined is the \textbf{journalistic headline} and in the case of social media,
+framing in the coverage of the DANA event. The unit of analysis defined is the \textit{journalistic headline} and in the case of social media,
 a sample for \textit{n-words} is taken from the post. The study period covers from 29th October to 30 November 2024, separating the data into
 two periods: the first from 29th October to 4th November (\textit{Impact}), and the second from 5th November to 30th November (\textit{Post}). 
 This division allows for a comparative analysis of the framing used in the immediate aftermath of the DANA event and in the subsequent weeks.
@@ -11,22 +11,22 @@ This division allows for a comparative analysis of the framing used in the immed
 
 To ensure an appropriate representation of Spanish media ecosystem, the data set includes headlines from a variety of sources,
 which include national and local scopes. The data set includes headlines from the following media outlets:
-
+\begin{table}
+    \centering
 \begin{tabular}{c c}
-\centering
-    
     \textbf{Media Type} & \textbf{Media Outlet} \\
     \hline
-    National Newspapers & \\
-    Local Newspapers & \textit{Las Provincias, Levante EVM, El Mediterráneo, 
-    Torrent al día, Valencia Plaza} \\
-    Local Radio & \\
+    National Newspapers & \textit{20 minutos, ABC, AS, EFE, El Mundo, El País} \\
+                        & \textit{EuropaPress, La Razón, La Vanguardia, Marca} \\
+    Local Newspapers & \textit{Las Provincias, Levante EVM, El Mediterráneo,} \\ 
+    & \textit{Torrent al día, Valencia Plaza} \\
     National Radio & \textit{La Cope, La Ser, Onda Cero} \\
     Local TV & \textit{7TeleValencia, À Punt, LaOchoTv} \\
     National TV & \textit{Antena 3, Telecinco, La Sexta, RTVE, Cuatro} \\
     Social Media & \textit{X, Facebook, Tiktok } \\
     \hline
 \end{tabular}
+\end{table}
 
 Data collection followed a reproducible procedure based on structured search queries. Whenever possible, the \textit{Advanced Google
 Search Engine} was used, combining boolean operators and site domains. When this method was insufficient and provided poor results,
@@ -58,7 +58,7 @@ Explicit criteria were defined to ensure consistency across the headlines collec
     \item Irrelevant or ambiguous content not directly related to the event
     \item Duplicated entries or republished content
     \item News outside the temporal scope
-    \item Non-comparable formats lacking a clean headline structure (except for social media)
+    \item Non-comparable formats, lacking a clean headline structure (except for social media)
 \end{itemize}
 
 
@@ -69,18 +69,28 @@ retained. Therefore, the number of observations varies across outlets, with some
 50 headlines.
 
 Following the data collection process, a structured database was constructed in which each observation corresponds to an individual headline. 
-The final corpus comprises \num{1400} headlines. For each observation, a set of variables was defined: the \textit{media outlet}(source name), publication date, 
+The final corpus comprises \num{1347} headlines. For each observation, a set of variables was defined: the \textit{media outlet} (source name), publication date, 
 and the full headline text. Additionally, other categorical variables were incorporated, such as \textit{media type} (e.g., press, radio, television, or 
-social media) and the temporal \textit{phase} of the event (impact or post-event stage). The dataset also includes an estimate 
+social media) and the \textit{temporal phase} of the event (impact or post-event stage). The dataset also includes an estimate 
 of audience reach and the corresponding URL linking to the original content. The information related to audiences was collected from ... 
 
 \subsection{Data Preprocesing}
 
-\paragraph{Text Normalization and Linguistic Processing}
+\paragraph{Text Normalization and Linguistic Processing} 
 
-Prior to analysis, a text standardization process was applied to ensure consistency and reduce noise. The cleaning procedure
- included converting all text to lowercase, replacing punctuation with whitespace, collapsing multiple whitespace characters into a 
- single space, and removing residual special characters. 
+Prior to analysis, a text standardization process was applied to ensure consistency and reduce noise. 
+The cleaning procedure included converting all text to lowercase, replacing punctuation with whitespace, collapsing multiple 
+whitespace characters into a single space, and removing residual special characters. For social media content, 
+additional preprocessing steps were implemented, including the removal of hashtags (\#), mentions (@), emojis, and other 
+non-linguistic symbols.
 
-For social media content, additional preprocessing steps were implemented, including the removal of 
-hashtags (\textit{\#}), mentions (\textit{@}), emojis, and other non-linguistic symbols.
+Once the text was normalized, all headlines were lemmatized to improve pattern detection. This process transforms each word (token) 
+into its canonical base form, thereby minimizing the impact of inflectional variations such as verb conjugations, 
+plural forms, and gender agreement. Lemmatization was performed using the UDPipe library with a Spanish pre-trained model, 
+which provides tokenization, part-of-speech tagging, and lemma extraction. Each headline was thus converted into a sequence of lemmas representing the original text. This lemmatized representation 
+serves as the input for the subsequent regex-based detection process used to identify alarmist linguistic patterns.
+
+
+
+
+

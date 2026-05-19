@@ -1,16 +1,17 @@
 # Fdb version 4
-["biber generated/main"] 0 "generated/main.bcf" "generated/main.bbl" "generated/main" 0 0
-  "generated/main.bcf" 0 -1 0 "pdflatex"
-  "refs.bib" 0 -1 0 ""
+["biber generated/main"] 1779182589.45492 "generated/main.bcf" "generated/main.bbl" "generated/main" 1779182744.05988 0
+  "generated/main.bcf" 1779182743.99265 107027 9fc4af5a32bc0877277c5899bc24801f "pdflatex"
+  "refs.bib" 1779182589.28821 629 3d9a00364c8a3ef86a5b0e11d4a5e806 ""
   (generated)
   "generated/main.bbl"
   "generated/main.blg"
   (rewritten before read)
-["pdflatex"] 1778768826.0388 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1778768827.07781 0
+["pdflatex"] 1779182743.16232 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1779182744.06014 0
   "/etc/texmf/web2c/texmf.cnf" 1753879975.88063 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" 1778762585.78718 2799 31af647864fdb0e508cb7bc7a20a7fa9 ""
+  "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" 1779182197.13309 2645 135cc4386c575f742a9f29b9cf503581 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
@@ -21,6 +22,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -45,6 +47,7 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy8.tfm" 1579560596 904 a3deb54664adaaa632c6cdee911ffe34 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
+  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb" 1248133631 32362 179c33bbf43f19adbb3825bb4e36e57a ""
@@ -199,15 +202,17 @@
   "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1636152094 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1095.pfb" 1753879990.40364 145929 f25e56369a345c4ff583b067cd87ce8e ""
+  "/usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb" 1753879990.40464 136101 f533469f523533d38317ab5729d00c8a ""
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1753879999.09965 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1753880040 8214415 14b9ec0144642406b62c56b45f6d0fd5 ""
-  "generated/main.aux" 1778768826.88488 1129 6444333b13fddc73570c279745c9d61e "pdflatex"
-  "generated/main.bbl" 0 -1 0 "biber generated/main"
-  "generated/main.out" 1778768826.88588 552 d42f77922a6b31a6e6d9d7d7055f44e7 "pdflatex"
-  "generated/main.run.xml" 1778768826.88788 2299 33d8dfeb54dc04cad67f98afaa10639d "pdflatex"
-  "main.tex" 1778762585.78718 2799 31af647864fdb0e508cb7bc7a20a7fa9 ""
-  "materials.tex" 1778768823.88087 5189 7d2eb3a6d6a6d1806243828c17ca0166 ""
+  "generated/main.aux" 1779182743.99165 1805 4665aa480545ea5a220e321d2450745b "pdflatex"
+  "generated/main.bbl" 1779182589.98722 3452 3d2dca27ec8377b0c38801645bf9d85b "biber generated/main"
+  "generated/main.out" 1779182743.99165 1034 5e99b705213030f4ef697f2abf77f829 "pdflatex"
+  "generated/main.run.xml" 1779182743.99265 2299 33d8dfeb54dc04cad67f98afaa10639d "pdflatex"
+  "intro.tex" 1779182742.99264 699 d5a05ee789c8d35155aeeb842fa2446b ""
+  "main.tex" 1779182197.13309 2645 135cc4386c575f742a9f29b9cf503581 ""
+  "materials.tex" 1779179980.28954 6018 37e44fd58f593e7048dcf88d6b49b0d3 ""
   (generated)
   "generated/main.aux"
   "generated/main.bcf"
