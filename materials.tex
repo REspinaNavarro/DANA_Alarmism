@@ -4,13 +4,13 @@
 \subsection{Corpus Construction}
 This study analyzes a dataset of 1,340 headlines from different official news sources. The aim is to examine the presence of 'alarmist' 
 framing in the coverage of the DANA event. The unit of analysis defined is the \textit{journalistic headline} and in the case of social media,
-a sample for \textit{n-words} is taken from the post. The study period covers from 29th October to 30 November 2024, separating the data into
+a sample for first \textit{n-words} is taken from the post. The study period covers from 29th October to 30 November 2024, separating the data into
 two periods: the first from 29th October to 4th November (\textit{Impact}), and the second from 5th November to 30th November (\textit{Post}). 
 This division allows for a comparative analysis of the framing used in the immediate aftermath of the DANA event and in the subsequent weeks.
 
 
-To ensure an appropriate representation of Spanish media ecosystem, the data set includes headlines from a variety of sources,
-which include national and local scopes. The data set includes headlines from the following media outlets:
+To ensure an appropriate representation of Spanish media ecosystem, the corpus includes headlines from a variety of sources,
+which include national and local scopes. The data set includes headlines listed on the Table~1 \ref{medios}:
 \begin{table}
     \centering
 \begin{tabular}{c c}
@@ -26,7 +26,8 @@ which include national and local scopes. The data set includes headlines from th
     Social Media & \textit{X, Facebook, Tiktok } \\
     \hline
 \end{tabular}
-\end{table}
+\caption{Media outlets and social media included in the analysis}
+\end{table} \label{medios}
 
 Data collection followed a reproducible procedure based on structured search queries. Whenever possible, the \textit{Advanced Google
 Search Engine} was used, combining boolean operators and site domains. When this method was insufficient and provided poor results,
@@ -50,7 +51,7 @@ Explicit criteria were defined to ensure consistency across the headlines collec
     \item Explicit reference to the phenomenon under study: DANA or heavy rainfall in Valencia
     \item Publication within the defined temporal window
     \item Headlines must originate from verifiable sources (URL or platform identifier)
-    \item For social media: a minimum relevance threshold ($\geq 1000$ interactions, such as likes or shares)
+    \item For social media: a minimum relevance threshold ($\geq 1,000$ interactions, such as likes or shares)
 \end{itemize}
 
 \paragraph{Exclusion Criteria}
@@ -76,7 +77,7 @@ of audience reach and the corresponding URL linking to the original content. The
 
 \subsection{Data Preprocesing}
 
-\paragraph{Text Normalization and Linguistic Processing} 
+\subsubsection*{Text Normalization and Linguistic Processing} 
 
 Prior to analysis, a text standardization process was applied to ensure consistency and reduce noise. 
 The cleaning procedure included converting all text to lowercase, replacing punctuation with whitespace, collapsing multiple 
