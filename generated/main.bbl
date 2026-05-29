@@ -21,11 +21,12 @@
   \datalist[entry]{nyt/global//global/global}
     \entry{creating_fear}{book}{}
       \name{author}{1}{}{%
-        {{hash=51c7a28627c33f0697fe269f00855f7a}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
            family={Altheide},
            familyi={A\bibinitperiod},
            given={David},
-           giveni={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{51c7a28627c33f0697fe269f00855f7a}
       \strng{fullhash}{51c7a28627c33f0697fe269f00855f7a}
@@ -35,6 +36,8 @@
       \strng{authorfullhash}{51c7a28627c33f0697fe269f00855f7a}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{isbn}{9780203794494}
@@ -47,16 +50,18 @@
     \endentry
     \entry{fear_news}{article}{}
       \name{author}{2}{}{%
-        {{hash=8e5016a8f635ef42a9335b2271d514bd}{%
+        {{un=0,uniquepart=base,hash=8e5016a8f635ef42a9335b2271d514bd}{%
            family={Altheide},
            familyi={A\bibinitperiod},
            given={David\bibnamedelima L.},
-           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
-        {{hash=c872af07058eb8f781078783caf1483b}{%
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c872af07058eb8f781078783caf1483b}{%
            family={Michalowski},
            familyi={M\bibinitperiod},
            given={R.\bibnamedelimi Sam},
-           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{a046e8a00fa404c1a9e594821ec249d9}
       \strng{fullhash}{a046e8a00fa404c1a9e594821ec249d9}
@@ -66,6 +71,8 @@
       \strng{authorfullhash}{a046e8a00fa404c1a9e594821ec249d9}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{The Sociological Quarterly}
@@ -81,11 +88,12 @@
     \endentry
     \entry{mediatized_disasters}{inbook}{}
       \name{author}{1}{}{%
-        {{hash=af518ca6d1abc0f7b38651d4d7359629}{%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
            family={Cottle},
            familyi={C\bibinitperiod},
            given={Simon},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{af518ca6d1abc0f7b38651d4d7359629}
       \strng{fullhash}{af518ca6d1abc0f7b38651d4d7359629}
@@ -96,6 +104,8 @@
       \field{extraname}{1}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{The Oxford Handbook of Cultural Sociology}
@@ -108,11 +118,12 @@
     \endentry
     \entry{cottle}{article}{}
       \name{author}{1}{}{%
-        {{hash=af518ca6d1abc0f7b38651d4d7359629}{%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
            family={Cottle},
            familyi={C\bibinitperiod},
            given={Simon},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{af518ca6d1abc0f7b38651d4d7359629}
       \strng{fullhash}{af518ca6d1abc0f7b38651d4d7359629}
@@ -123,6 +134,8 @@
       \field{extraname}{2}
       \field{sortinit}{C}
       \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{Media, War \& Conflict}
@@ -138,11 +151,12 @@
     \endentry
     \entry{Entman1993}{article}{}
       \name{author}{1}{}{%
-        {{hash=ea4997e0d857e9f13cb80589ab0ed40d}{%
+        {{un=0,uniquepart=base,hash=ea4997e0d857e9f13cb80589ab0ed40d}{%
            family={Entman},
            familyi={E\bibinitperiod},
            given={Robert\bibnamedelima M.},
-           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{ea4997e0d857e9f13cb80589ab0ed40d}
       \strng{fullhash}{ea4997e0d857e9f13cb80589ab0ed40d}
@@ -152,6 +166,8 @@
       \strng{authorfullhash}{ea4997e0d857e9f13cb80589ab0ed40d}
       \field{sortinit}{E}
       \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{Journal of Communication}
@@ -164,11 +180,12 @@
     \endentry
     \entry{Holm_disaster}{inbook}{}
       \name{author}{1}{}{%
-        {{hash=ff15750f8fa37a804d2f6b24c785fe58}{%
+        {{un=0,uniquepart=base,hash=ff15750f8fa37a804d2f6b24c785fe58}{%
            family={Holm},
            familyi={H\bibinitperiod},
            given={Isak\bibnamedelima Winkel},
-           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
       }
       \name{editor}{2}{}{%
         {{hash=c7ef9351d63db2e8fae4442bd3c017af}{%
@@ -199,6 +216,8 @@
       \strng{editorfullhash}{e0cfa32df751e1856a114c10b66f4ed5}
       \field{sortinit}{H}
       \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{The Cultural Life of Catastrophes and Crises}
@@ -219,55 +238,65 @@
     \endentry
     \entry{amplification_risk}{article}{}
       \name{author}{8}{}{%
-        {{hash=27325e3ce319aaabffbb6de204d4c3da}{%
+        {{un=0,uniquepart=base,hash=27325e3ce319aaabffbb6de204d4c3da}{%
            family={Kasperson},
            familyi={K\bibinitperiod},
            given={Roger\bibnamedelima E.},
-           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=d540424be462c768180a7aa88e8a7306}{%
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d540424be462c768180a7aa88e8a7306}{%
            family={Renn},
            familyi={R\bibinitperiod},
            given={Ortwin},
-           giveni={O\bibinitperiod}}}%
-        {{hash=1f98811f35f2a5d68ea95bf9b4def931}{%
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f98811f35f2a5d68ea95bf9b4def931}{%
            family={Slovic},
            familyi={S\bibinitperiod},
            given={Paul},
-           giveni={P\bibinitperiod}}}%
-        {{hash=00dd3e57bb8b5200f060aca690911f23}{%
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00dd3e57bb8b5200f060aca690911f23}{%
            family={Brown},
            familyi={B\bibinitperiod},
            given={Halina\bibnamedelima S.},
-           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
-        {{hash=555389b20ff13834374d4ba84f3dcf97}{%
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=555389b20ff13834374d4ba84f3dcf97}{%
            family={Emel},
            familyi={E\bibinitperiod},
            given={Jacque},
-           giveni={J\bibinitperiod}}}%
-        {{hash=7dd8d653ca28e469fabecd9f7950adb1}{%
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dd8d653ca28e469fabecd9f7950adb1}{%
            family={Goble},
            familyi={G\bibinitperiod},
            given={Robert},
-           giveni={R\bibinitperiod}}}%
-        {{hash=569848f91a24beb4884abd51f8cc626a}{%
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=569848f91a24beb4884abd51f8cc626a}{%
            family={Kasperson},
            familyi={K\bibinitperiod},
            given={Jeanne\bibnamedelima X.},
-           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod}}}%
-        {{hash=5d30a8610eb4e315f3ecd752e9865ae9}{%
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d30a8610eb4e315f3ecd752e9865ae9}{%
            family={Ratick},
            familyi={R\bibinitperiod},
            given={Samuel},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{b86542aa30e9a376b96500664c757401}
       \strng{fullhash}{3ccc45f208911dd1a1b0e69365cf85a5}
-      \strng{bibnamehash}{b86542aa30e9a376b96500664c757401}
-      \strng{authorbibnamehash}{b86542aa30e9a376b96500664c757401}
+      \strng{bibnamehash}{3ccc45f208911dd1a1b0e69365cf85a5}
+      \strng{authorbibnamehash}{3ccc45f208911dd1a1b0e69365cf85a5}
       \strng{authornamehash}{b86542aa30e9a376b96500664c757401}
       \strng{authorfullhash}{3ccc45f208911dd1a1b0e69365cf85a5}
       \field{sortinit}{K}
       \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{Risk Analysis}
@@ -283,11 +312,12 @@
     \endentry
     \entry{pragma_linguistic}{article}{}
       \name{author}{1}{}{%
-        {{hash=2a4f042089356bec5d49689923517793}{%
+        {{un=0,uniquepart=base,hash=2a4f042089356bec5d49689923517793}{%
            family={Molek-Kozakowska},
            familyi={M\bibinithyphendelim K\bibinitperiod},
            given={Katarzyna},
-           giveni={K\bibinitperiod}}}%
+           giveni={K\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {SAGE Publications Sage UK: London, England}%
@@ -300,6 +330,8 @@
       \strng{authorfullhash}{2a4f042089356bec5d49689923517793}
       \field{sortinit}{M}
       \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{Discourse \& communication}
@@ -312,21 +344,24 @@
     \endentry
     \entry{DisastersandtheMedia}{book}{}
       \name{author}{3}{}{%
-        {{hash=dbb8c85711f18988b975f5cdf6ff9296}{%
+        {{un=0,uniquepart=base,hash=dbb8c85711f18988b975f5cdf6ff9296}{%
            family={{Pantti}},
            familyi={P\bibinitperiod},
            given={Mervi},
-           giveni={M\bibinitperiod}}}%
-        {{hash=a359b8cd1d13fa70e9f3a9d311e8bb84}{%
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a359b8cd1d13fa70e9f3a9d311e8bb84}{%
            family={{Wahl-Jorgensen}},
            familyi={W\bibinitperiod},
            given={Karin},
-           giveni={K\bibinitperiod}}}%
-        {{hash=af518ca6d1abc0f7b38651d4d7359629}{%
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
            family={{Cottle}},
            familyi={C\bibinitperiod},
            given={Simon},
-           giveni={S\bibinitperiod}}}%
+           giveni={S\bibinitperiod},
+           givenun=0}}%
       }
       \list{location}{1}{%
         {New York, United States of America}%
@@ -342,6 +377,8 @@
       \strng{authorfullhash}{5c63731da24f18fe528a9ddcb518c265}
       \field{sortinit}{P}
       \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Disasters and the Media}
@@ -355,11 +392,12 @@
     \endentry
     \entry{framing_media}{article}{}
       \name{author}{1}{}{%
-        {{hash=c564a85866f0fff948ec8bd65a0ecb2b}{%
+        {{un=0,uniquepart=base,hash=c564a85866f0fff948ec8bd65a0ecb2b}{%
            family={Scheufele},
            familyi={S\bibinitperiod},
            given={DA},
-           giveni={D\bibinitperiod}}}%
+           giveni={D\bibinitperiod},
+           givenun=0}}%
       }
       \strng{namehash}{c564a85866f0fff948ec8bd65a0ecb2b}
       \strng{fullhash}{c564a85866f0fff948ec8bd65a0ecb2b}
@@ -369,6 +407,8 @@
       \strng{authorfullhash}{c564a85866f0fff948ec8bd65a0ecb2b}
       \field{sortinit}{S}
       \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{author}
       \field{journaltitle}{Journal of Communication}
@@ -384,11 +424,12 @@
     \endentry
     \entry{Thompson1995}{book}{}
       \name{author}{1}{}{%
-        {{hash=6dd4912e5e4720bc129473e488bd729e}{%
+        {{un=0,uniquepart=base,hash=6dd4912e5e4720bc129473e488bd729e}{%
            family={Thompson},
            familyi={T\bibinitperiod},
            given={John\bibnamedelima Bodine},
-           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
       }
       \list{publisher}{1}{%
         {Stanford University Press}%
@@ -401,6 +442,8 @@
       \strng{authorfullhash}{6dd4912e5e4720bc129473e488bd729e}
       \field{sortinit}{T}
       \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{The Media and Modernity: A Social Theory of the Media}
