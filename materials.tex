@@ -2,28 +2,27 @@
 \section{Materials and Methods} \label{sec:materials}
 
 \subsection{Corpus Construction}
-This study analyzes a dataset of 1,340 headlines from different official news sources. The aim is to examine the presence of 'alarmist' 
+This study analyzes a dataset of 1,347 headlines from different official news sources. The aim is to examine the presence of 'alarmist' 
 framing in the coverage of the DANA event. The unit of analysis defined is the \textit{journalistic headline} and in the case of social media,
 a sample for first \textit{n-words} is taken from the post. The study period covers from 29th October to 30 November 2024, separating the data into
 two periods: the first from 29th October to 4th November (\textit{Impact}), and the second from 5th November to 30th November (\textit{Post}). 
 This division allows for a comparative analysis of the framing used in the immediate aftermath of the DANA event and in the subsequent weeks.
 
-
 To ensure an appropriate representation of Spanish media ecosystem, the corpus includes headlines from a variety of sources,
 which include national and local scopes. The data set includes headlines listed on the Table~1 \ref{medios}:
 \begin{table}
-    \centering
+\centering
 \begin{tabular}{c c}
     \textbf{Media Type} & \textbf{Media Outlet} \\
     \hline
-    National Newspapers & \textit{20 minutos, ABC, AS, EFE, El Mundo, El País} \\
+    \textbf{National Newspapers} & \textit{20 minutos, ABC, AS, EFE, El Mundo, El País} \\
                         & \textit{EuropaPress, La Razón, La Vanguardia, Marca} \\
-    Local Newspapers & \textit{Las Provincias, Levante EVM, El Mediterráneo,} \\ 
+    \textbf{Local Newspapers} & \textit{Las Provincias, Levante EVM, El Mediterráneo,} \\ 
     & \textit{Torrent al día, Valencia Plaza} \\
-    National Radio & \textit{La Cope, La Ser, Onda Cero} \\
-    Local TV & \textit{7TeleValencia, À Punt, LaOchoTv} \\
-    National TV & \textit{Antena 3, Telecinco, La Sexta, RTVE, Cuatro} \\
-    Social Media & \textit{X, Facebook, Tiktok } \\
+    \textbf{National Radio} & \textit{La Cope, La Ser, Onda Cero} \\
+    \textbf{Local TV} & \textit{7TeleValencia, À Punt, LaOchoTv} \\
+    \textbf{National TV} & \textit{Antena 3, Telecinco, La Sexta, RTVE, Cuatro} \\
+    \textbf{Social Media} & \textit{X, Facebook, Tiktok } \\
     \hline
 \end{tabular}
 \caption{Media outlets and social media included in the analysis}
@@ -32,14 +31,14 @@ which include national and local scopes. The data set includes headlines listed 
 Data collection followed a reproducible procedure based on structured search queries. Whenever possible, the \textit{Advanced Google
 Search Engine} was used, combining boolean operators and site domains. When this method was insufficient and provided poor results,
 internal search engines of media sites were used specifically in social media. A limitation was encountered in the case of 
-Instagram, as the platform currently does not provide a reliable date-filtering mechanism comparable to
-search engines or other social media platforms such as X (Twitter). This constraint makes it difficult to reproduce the same sampling
+\emph{Instagram}, as the platform currently does not provide a reliable date-filtering mechanism comparable to
+search engines or other social media platforms such as \emph{X} (Twitter). This constraint makes it difficult to reproduce the same sampling
 procedure, as result we decided to exclude this social media from the final corpus construction.
 
 
 The general search pattern was as follows:
 
-\begin{tcolorbox}[colback=gray!10,colframe=black]
+\begin{tcolorbox}[colback=gray!10,colframe=gray]
 \centering
 \texttt{(dana OR "gota fría" OR lluvias OR torrenciales) AND Valencia AND 2024 site:<domain>}
 \end{tcolorbox}
@@ -63,14 +62,23 @@ Explicit criteria were defined to ensure consistency across the headlines collec
 \end{itemize}
 
 
-The sampling strategy consisted of selecting the first 50 relevant headlines per outlet, ordered according to their 
-appearance in the search results and constrained by the predefined inclusion criteria. In cases where media outlets did
-not yield sufficient results within the defined temporal window, only those headlines meeting the inclusion criteria were 
-retained. Therefore, the number of observations varies across outlets, with some sources contributing fewer than the intended 
-50 headlines.
+The sampling strategy consisted of selecting up to 50 relevant headlines per media outlet, ordered according to their 
+position in search results and filtered based on the inclusion and exclusion criteria defined previously. This approach was adopted to 
+ensure a comparable sample size across outlets, preventing larger media sources from being overrepresented relative to smaller or local outlets, 
+and thereby enhancing the consistency and reproducibility of the analysis. In cases where a given outlet did not reach the target sample size, 
+all available headlines meeting the selection criteria were retained.
+
+A limitation of this approach is that the first set of sampled headlines does not necessarily correspond to equivalent temporal windows across media outlets.
+ Due to differences in publication intensity over time, some outlets reached the target sample size more quickly than others. As a result, 
+ the collected samples may reflect not only outlet-specific framing strategies but also the natural temporal evolution of rhethorical alarmism.
+
+Consequently, part of the observed differences in headline content may be driven by changes in the media discourse over time, 
+rather than solely by differences between outlets. To address this issue, temporal variables such as time (in days) and coverage phase were 
+incorporated into the statistical analysis. This allows for a more robust distinction between variations attributable
+ to media-specific framing and those arising from the evolving phases of disaster reporting.
 
 Following the data collection process, a structured database was constructed in which each observation corresponds to an individual headline. 
-The final corpus comprises \num{1347} headlines. For each observation, a set of variables was defined: the \textit{media outlet} (source name), publication date, 
+The final corpus comprises 1,347 headlines. For each observation, a set of variables was defined: the \textit{media outlet} (source name), publication date, 
 and the full headline text. Additionally, other categorical variables were incorporated, such as \textit{media type} (e.g., press, radio, television, or 
 social media) and the \textit{temporal phase} of the event (impact or post-event stage). The dataset also includes an estimate 
 of audience reach and the corresponding URL linking to the original content. The information related to audiences was collected from ... 
@@ -87,9 +95,22 @@ non-linguistic symbols.
 
 Once the text was normalized, all headlines were lemmatized to improve pattern detection. This process transforms each word (token) 
 into its canonical base form, thereby minimizing the impact of inflectional variations such as verb conjugations, 
-plural forms, and gender agreement. Lemmatization was performed using the UDPipe library with a Spanish pre-trained model, 
+plural forms, and gender agreement. Lemmatization was performed using the UDPipe library \parencite{UPDipe} with a Spanish pre-trained model \parencite{2008_ancora}, 
 which provides tokenization, part-of-speech tagging, and lemma extraction. Each headline was thus converted into a sequence of lemmas representing the original text. This lemmatized representation 
 serves as the input for the subsequent regex-based detection process used to identify alarmist linguistic patterns.
+
+\subsection*{Regex-based Algorithm for Detecting Rhetorical Alarmism}
+To classify news headlines according to the proposed framework, an automated algorithm was developed based on regular expression (\emph{regex}) matching over lemmatized text. 
+The construction of the regex patterns was guided by dictionaries associated with each of the four dimensions of \emph{rhetorical alarmism} defined in this study. 
+These dictionaries were manually elaborated and consist of keywords and linguistic expressions representative of each alarmism category. 
+For each dimension, a set of regular expressions was generated to capture semantically and syntactically related patterns in the headlines.
+The algorithm evaluates each headline by matching its lemmatized tokens against the corresponding regex dictionaries. For every match, 
+the associated alarmism category is recorded, the total number of detected alarmism categories is then computed for each headline.
+
+To enable comparability across headlines of varying length, a normalized alarmism score is defined. 
+Specifically, the number of detected alarmist patterns is divided by the total number of tokens in the headline, 
+producing a dimensionless index of rhetorical alarmism (\emph{RAI}). This normalization ensures that longer headlines are not systematically 
+biased toward longer headlines, thereby allowing for fair comparisons across different media sources.
 
 
 

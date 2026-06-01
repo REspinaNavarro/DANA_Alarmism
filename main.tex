@@ -24,10 +24,16 @@
 \usepackage[dvipsnames]{xcolor}
 
 \usepackage[
-  backend=biber,
-  authordate,
-  sorting=nyt
+backend=biber,
+authordate,
+sorting=nyt,
+maxbibnames=99,
+maxcitenames=2,
+doi=true,
+url=false,
+isbn=false
 ]{biblatex-chicago}
+\DeclareNameAlias{sortname}{family-given}
 
 \addbibresource{refs.bib}
 \usepackage{authblk}
@@ -70,7 +76,7 @@
 \fi
 %--------- side numbering ------- 
 
-\title{DANA Article}
+\title{Measuring Rhetorical Alarmism in Disaster News: A Quantitative Framework Applied to the 2024 Valencia Floods}
 
 \author[1]{Reinaldo Espina-Navarro}
 \author[2]{Mª Nieves Martínez-Alzamora}

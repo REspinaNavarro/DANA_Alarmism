@@ -1,14 +1,14 @@
 # Fdb version 4
-["biber generated/main"] 1780057148.26923 "generated/main.bcf" "generated/main.bbl" "generated/main" 1780057169.7163 0
-  "generated/main.bcf" 1780057169.637 203503 9e3c19fa9ce40c3b63d5fefae1c81ca3 "pdflatex"
-  "refs.bib" 1780055463.18123 3540 1dd8d6659c64fc0b054333f37f8d4edb ""
+["biber generated/main"] 1780298196.99623 "generated/main.bcf" "generated/main.bbl" "generated/main" 1780305803.02595 0
+  "generated/main.bcf" 1780305802.94933 203708 afe6d82372d694bc6b078f446cea5e91 "pdflatex"
+  "refs.bib" 1780298196.83715 4806 e191a102c404c069a0a521ea7564d900 ""
   (generated)
   "generated/main.bbl"
   "generated/main.blg"
   (rewritten before read)
-["pdflatex"] 1780057168.46531 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1780057169.71676 0
+["pdflatex"] 1780305801.80336 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1780305803.02635 0
   "/etc/texmf/web2c/texmf.cnf" 1753879975.88063 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" 1780057168.26599 2628 7be261f9174a5da5ac17ff421e91620a ""
+  "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" 1780298452.19681 2825 d9469846e3352e3922ff0de6c1e42593 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1200.tfm" 1136768653 1536 74b7293ec3713bb7fdca8dd1bd1f469c ""
@@ -22,7 +22,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm" 1246382020 940 228d6584342e91276bf566bcf9716b83 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
-  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmex10.tfm" 1136768653 992 662f679a0b3d2d53c1b94050fdaa3f50 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1136768653 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -47,7 +46,6 @@
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/wasy/wasy8.tfm" 1579560596 904 a3deb54664adaaa632c6cdee911ffe34 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1248133631 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1248133631 32080 340ef9bf63678554ee606688e7b5339d ""
-  "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb" 1248133631 32001 6aeea3afe875097b1eb0da29acd61e28 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
   "/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
@@ -212,13 +210,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1753879999.09965 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1753880040 8214415 14b9ec0144642406b62c56b45f6d0fd5 ""
-  "generated/main.aux" 1780057169.636 3859 8ff8cc2aa30884fa80471cbbdbc961e3 "pdflatex"
-  "generated/main.bbl" 1780057148.9599 17620 cd2fa3de3673b7b3134efbd60d186bdd "biber generated/main"
-  "generated/main.out" 1780057169.636 1264 d9eb84f916fa201ac52807c641f77858 "pdflatex"
-  "generated/main.run.xml" 1780057169.638 2401 5dad728d02f25d4cf231d9a4ac2e69fc "pdflatex"
-  "intro.tex" 1780056840.01264 6379 ab9c83f9c70fffc50d6fd66fcc4a3b13 ""
-  "main.tex" 1780057168.26599 2628 7be261f9174a5da5ac17ff421e91620a ""
-  "materials.tex" 1780044190.59418 6111 e4275cf34e8f18e4aa3f7b4839365bde ""
+  "generated/main.aux" 1780305802.94833 4296 0b50983b83ea5464217bd5536b19fe9a "pdflatex"
+  "generated/main.bbl" 1780298197.63916 23497 b7dcfdb6221e3ae8ab9d9b56c683ab9e "biber generated/main"
+  "generated/main.out" 1780305802.94933 1264 d9eb84f916fa201ac52807c641f77858 "pdflatex"
+  "generated/main.run.xml" 1780305802.95033 2401 5dad728d02f25d4cf231d9a4ac2e69fc "pdflatex"
+  "intro.tex" 1780060590.98605 5934 eb737c6eb30dd85ec8e69885ebbc1f63 ""
+  "main.tex" 1780298452.19681 2825 d9469846e3352e3922ff0de6c1e42593 ""
+  "materials.tex" 1780305801.58433 8664 c5aa612a053b5c3938d4f9913ac04853 ""
   (generated)
   "generated/main.aux"
   "generated/main.bcf"
