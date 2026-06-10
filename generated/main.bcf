@@ -4980,8 +4980,14 @@
     <bcf:citekey order="9" intorder="2">creating_fear</bcf:citekey>
     <bcf:citekey order="10" intorder="1">Thompson1995</bcf:citekey>
     <bcf:citekey order="11" intorder="1">DisastersandtheMedia</bcf:citekey>
-    <bcf:citekey order="12" intorder="1">UPDipe</bcf:citekey>
-    <bcf:citekey order="13" intorder="1">2008_ancora</bcf:citekey>
+    <bcf:citekey order="11" intorder="2">mediatized_disasters</bcf:citekey>
+    <bcf:citekey order="12" intorder="1">vandijk1988</bcf:citekey>
+    <bcf:citekey order="13" intorder="1">Entman1993</bcf:citekey>
+    <bcf:citekey order="14" intorder="1">Chong_Framing_Theory</bcf:citekey>
+    <bcf:citekey order="15" intorder="1">Problem_Frame</bcf:citekey>
+    <bcf:citekey order="16" intorder="1">amplification_risk</bcf:citekey>
+    <bcf:citekey order="17" intorder="1">UPDipe</bcf:citekey>
+    <bcf:citekey order="18" intorder="1">2008_ancora</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nyt">

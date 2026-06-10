@@ -19,6 +19,39 @@
 
 \refsection{0}
   \datalist[entry]{nyt/global//global/global}
+    \entry{Problem_Frame}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
+           family={Altheide},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{fullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{bibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorbibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authornamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorfullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Sociological Quarterly}
+      \field{month}{09}
+      \field{title}{The News Media, The Problem Frame, and the Production of Fear}
+      \field{volume}{38}
+      \field{year}{1997}
+      \field{pages}{647\bibrangedash 668}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1111/j.1533-8525.1997.tb00758.x
+      \endverb
+    \endentry
     \entry{creating_fear}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
@@ -34,6 +67,7 @@
       \strng{authorbibnamehash}{51c7a28627c33f0697fe269f00855f7a}
       \strng{authornamehash}{51c7a28627c33f0697fe269f00855f7a}
       \strng{authorfullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \field{extraname}{2}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -50,11 +84,11 @@
     \endentry
     \entry{fear_news}{article}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=8e5016a8f635ef42a9335b2271d514bd}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
            family={Altheide},
            familyi={A\bibinitperiod},
-           given={David\bibnamedelima L.},
-           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=c872af07058eb8f781078783caf1483b}{%
            family={Michalowski},
@@ -63,12 +97,12 @@
            giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{a046e8a00fa404c1a9e594821ec249d9}
-      \strng{fullhash}{a046e8a00fa404c1a9e594821ec249d9}
-      \strng{bibnamehash}{a046e8a00fa404c1a9e594821ec249d9}
-      \strng{authorbibnamehash}{a046e8a00fa404c1a9e594821ec249d9}
-      \strng{authornamehash}{a046e8a00fa404c1a9e594821ec249d9}
-      \strng{authorfullhash}{a046e8a00fa404c1a9e594821ec249d9}
+      \strng{namehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{fullhash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{bibnamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authorbibnamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authornamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authorfullhash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
       \field{sortinit}{A}
       \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
       \field{extradatescope}{labelyear}
@@ -84,6 +118,46 @@
       \range{pages}{29}
       \verb{doi}
       \verb 10.1111/j.1533-8525.1999.tb01730.x
+      \endverb
+    \endentry
+    \entry{Chong_Framing_Theory}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74a81a438de398d80d824a8abcabe348}{%
+           family={Chong},
+           familyi={C\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bccfbe9947e9e285fc2ab4c20df77b8}{%
+           family={Druckman},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{fullhash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{bibnamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authorbibnamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authornamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authorfullhash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0021-9916}
+      \field{journaltitle}{Journal of Communication}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{A Theory of Framing and Opinion Formation in Competitive Elite Environments}
+      \field{volume}{57}
+      \field{year}{2007}
+      \field{pages}{99\bibrangedash 118}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/j.1460-2466.2006.00331.x
       \endverb
     \endentry
     \entry{mediatized_disasters}{inbook}{}
@@ -598,6 +672,36 @@
       \field{labeltitlesource}{title}
       \field{title}{The Media and Modernity: A Social Theory of the Media}
       \field{year}{1995}
+    \endentry
+    \entry{vandijk1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aadddb10f6ecf04c73bc1a650f40fd91}{%
+           family={Van\bibnamedelima Dijk},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Teun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates}%
+      }
+      \strng{namehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{fullhash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{bibnamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authorbibnamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authornamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authorfullhash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{News as Discourse}
+      \field{year}{1988}
     \endentry
   \enddatalist
 \endrefsection
