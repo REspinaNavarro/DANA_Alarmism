@@ -223,6 +223,36 @@
       \verb 10.1177/1750635213513229
       \endverb
     \endentry
+    \entry{Dor_Relevance_Opti}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d72b3122af1a34eb24377534b89da7eb}{%
+           family={Dor},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{fullhash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{bibnamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authorbibnamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authornamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authorfullhash}{d72b3122af1a34eb24377534b89da7eb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Journal of Pragmatics - J PRAGMATICS}
+      \field{month}{05}
+      \field{title}{On Newspaper Headlines as Relevance Optimizers}
+      \field{volume}{35}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.1016/S0378-2166(02)00134-0
+      \endverb
+    \endentry
     \entry{Entman1993}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=ea4997e0d857e9f13cb80589ab0ed40d}{%
@@ -251,6 +281,64 @@
       \field{year}{1993}
       \field{pages}{51\bibrangedash 58}
       \range{pages}{8}
+    \endentry
+    \entry{Encoding-Decoding}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d5f84a9090097ef25b2050e1e2ce375}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={Dorothy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f530d279b886072a7c8ceda3c677e290}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=398cdd16e889e4791233cad096488a7b}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hutchinson}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{editorbibnamehash}{b36cefd7ea82543dad6096110f7c1896}
+      \strng{editornamehash}{f182438c1f1069e3a7b6fbe582e36e27}
+      \strng{editorfullhash}{b36cefd7ea82543dad6096110f7c1896}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Culture, Media, Language: Working Papers in Cultural Studies, 1972--79}
+      \field{title}{Encoding/Decoding}
+      \field{year}{1980}
+      \field{pages}{128\bibrangedash 138}
+      \range{pages}{11}
     \endentry
     \entry{Holm_disaster}{inbook}{}
       \name{author}{1}{}{%
@@ -384,6 +472,59 @@
       \verb 10.1111/j.1539-6924.1988.tb01168.x
       \endverb
     \endentry
+    \entry{Kuiken_Digital_News}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c7519b0d7c73aa53ebb38c06d8eef117}{%
+           family={Kuiken},
+           familyi={K\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cf950773e43a54e4ddb50735be6646e}{%
+           family={Schuth},
+           familyi={S\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ed69e92799dbaffaeb8c392a779dac4}{%
+           family={Spitters},
+           familyi={S\bibinitperiod},
+           given={Martijn},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab9210ab077e947f933f5584116ac59c}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d9f6352aa9b1c7ccc60cd1d36ab20bd9}
+      \strng{fullhash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{bibnamehash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{authorbibnamehash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{authornamehash}{d9f6352aa9b1c7ccc60cd1d36ab20bd9}
+      \strng{authorfullhash}{961e2504bf331ad3f0d71e81237777e8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Digital Journalism}
+      \field{number}{10}
+      \field{title}{Effective Headlines of Newspaper Articles in a Digital Environment}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{1300\bibrangedash 1314}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/21670811.2017.1279978
+      \endverb
+    \endentry
     \entry{pragma_linguistic}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=2a4f042089356bec5d49689923517793}{%
@@ -415,6 +556,41 @@
       \field{year}{2013}
       \field{pages}{173\bibrangedash 197}
       \range{pages}{25}
+    \endentry
+    \entry{Nisbet_Frames}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6a8ad45f5c416b66cd81961cd736b6ed}{%
+           family={Nisbet},
+           familyi={N\bibinitperiod},
+           given={Matthew\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{fullhash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{bibnamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authorbibnamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authornamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authorfullhash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Environment: Science and Policy for Sustainable Development}
+      \field{number}{2}
+      \field{title}{Communicating Climate Change: Why Frames Matter for Public Engagement}
+      \field{volume}{51}
+      \field{year}{2009}
+      \field{pages}{12\bibrangedash 23}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3200/ENVT.51.2.12-23
+      \endverb
     \endentry
     \entry{DisastersandtheMedia}{book}{}
       \name{author}{3}{}{%
@@ -702,6 +878,41 @@
       \field{labeltitlesource}{title}
       \field{title}{News as Discourse}
       \field{year}{1988}
+    \endentry
+    \entry{news_framming}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48be10c4ba00a65907bf884648ce0bf5}{%
+           family={Vreese},
+           familyi={V\bibinitperiod},
+           given={Claes},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{fullhash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{bibnamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authorbibnamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authornamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authorfullhash}{48be10c4ba00a65907bf884648ce0bf5}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Information Design Journal}
+      \field{month}{04}
+      \field{title}{News Framing: Theory and Typology}
+      \field{volume}{13}
+      \field{year}{2005}
+      \field{pages}{51\bibrangedash 62}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1075/idjdd.13.1.06vre
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
