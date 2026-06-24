@@ -9,24 +9,31 @@ two periods: the first from 29th October to 4th November (\textit{Impact}), and 
 This division allows for a comparative analysis of the framing used in the immediate aftermath of the DANA event and in the subsequent weeks.
 
 To ensure an appropriate representation of Spanish media ecosystem, the corpus includes headlines from a variety of sources,
-which include national and local scopes. The data set includes headlines listed on the Table~1 \ref{medios}:
+which include national and local scopes. The data set includes headlines listed on the Table~\ref{tab:medios}:
 \begin{table}
 \centering
 \begin{tabular}{c c}
+    \toprule
     \textbf{Media Type} & \textbf{Media Outlet} \\
     \hline
     \textbf{National Newspapers} & \textit{20 minutos, ABC, AS, EFE, El Mundo, El País} \\
                         & \textit{EuropaPress, La Razón, La Vanguardia, Marca} \\
+    \midrule \\
     \textbf{Local Newspapers} & \textit{Las Provincias, Levante EVM, El Mediterráneo,} \\ 
     & \textit{Torrent al día, Valencia Plaza} \\
+    \midrule \\
     \textbf{National Radio} & \textit{La Cope, La Ser, Onda Cero} \\
+    \midrule \\
     \textbf{Local TV} & \textit{7TeleValencia, À Punt, LaOchoTv} \\
+    \midrule \\
     \textbf{National TV} & \textit{Antena 3, Telecinco, La Sexta, RTVE, Cuatro} \\
+    \midrule \\
     \textbf{Social Media} & \textit{X, Facebook, Tiktok } \\
     \hline
 \end{tabular}
 \caption{Media outlets and social media included in the analysis}
-\end{table} \label{medios}
+    \label{tab:medios}
+\end{table} 
 
 Data collection followed a reproducible procedure based on structured search queries. Whenever possible, the \textit{Advanced Google
 Search Engine} was used, combining boolean operators and site domains. When this method was insufficient and provided poor results,
@@ -110,7 +117,57 @@ the associated alarmism category is recorded, the total number of detected alarm
 To enable comparability across headlines of varying length, a normalized alarmism score is defined. 
 Specifically, the number of detected alarmist patterns is divided by the total number of tokens in the headline, 
 producing a dimensionless index of rhetorical alarmism (\emph{RAI}). This normalization ensures that longer headlines are not systematically 
-biased toward longer headlines, thereby allowing for fair comparisons across different media sources.
+biased toward longer headlines, thereby allowing for fair comparisons across different media sources. Therefore, our index is defined in the Equation~\ref{eq:RAI}
+
+\begin{equation}
+    RAI = \frac{N_m}{N_t}
+    \label{eq:RAI}
+\end{equation}
+
+Where $N_m$ represent the number of matches of alarmist phrases and $N_t$ total number of lemmatized words (tokens) of the headline.
+
+For each dimension of rhetorical alarmism, we constructed a small and selective set of key patterns and phrases manually defined for DANA context. 
+This restriction was intended to prevent inclusion of poorly related terms and to ensure that the detected patterns remained 
+tightly aligned with each dimension. Accordingly, the dictionary were designed to capture salient and diagnostically relevant expressions, 
+not broad lexical fields that might affect the measurement index. The Table~\ref{tab:dict} summarizes the \emph{key} phrases and patterns defined for each dimension.
+
+\begin{table}
+\centering
+\begin{tabular}{c}
+\toprule
+\textbf{Historical Exceptionality} \\
+\midrule 
+\emph{Key Patterns/Phrases:} \\ 
+Unprecedented; historic; record; never seen; unmatched; unparalleled; \\
+ worst case/ever; extraordinary \\
+\midrule 
+
+\textbf{Systemic Collapse} \\ 
+\midrule
+\emph{Key Patterns/Phrases:} \\ 
+collapse; paralyz; breakdown; failure; malfunction; overload; gridlock; \\
+disintegrat; chaos; apocalyp \\
+\midrule
+
+\textbf{Loss of Control / Inevitability} \\ 
+\midrule
+\emph{Key Patterns/Phrases:} \\ 
+uncontroll; unstoppable; uncontain; inevitable; unavoidable; overwhelm; \\
+out of control; helpless; beyond control  \\
+\midrule
+
+\textbf{Future Escalation} \\ 
+\midrule
+\emph{Key Patterns/Phrases:} \\ 
+worsen; escalat; intensif; increa; deteriorat; aggrav; upcoming; \\
+future threat; still to come; more to come  \\
+\midrule
+
+\end{tabular}
+\caption{Key phrases and word structures used to create the regex-based dictionary to identify rhetorical alarmism in headlines related to Valencia floods}
+\label{tab:dict}
+\end{table} 
+
 
 
 

@@ -1,0 +1,987 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Problem_Frame}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
+           family={Altheide},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{fullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{bibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorbibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authornamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorfullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Sociological Quarterly}
+      \field{month}{09}
+      \field{title}{The News Media, The Problem Frame, and the Production of Fear}
+      \field{volume}{38}
+      \field{year}{1997}
+      \field{pages}{647\bibrangedash 668}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1111/j.1533-8525.1997.tb00758.x
+      \endverb
+    \endentry
+    \entry{creating_fear}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
+           family={Altheide},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{fullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{bibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorbibnamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authornamehash}{51c7a28627c33f0697fe269f00855f7a}
+      \strng{authorfullhash}{51c7a28627c33f0697fe269f00855f7a}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780203794494}
+      \field{month}{05}
+      \field{title}{Creating Fear: News and the Construction of Crisis}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.4324/9780203794494
+      \endverb
+    \endentry
+    \entry{fear_news}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=51c7a28627c33f0697fe269f00855f7a}{%
+           family={Altheide},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c872af07058eb8f781078783caf1483b}{%
+           family={Michalowski},
+           familyi={M\bibinitperiod},
+           given={R.\bibnamedelimi Sam},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{fullhash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{bibnamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authorbibnamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authornamehash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \strng{authorfullhash}{578efc9c433f3a2fa08ed4fc68bdcf6b}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{The Sociological Quarterly}
+      \field{number}{3}
+      \field{title}{FEAR IN THE NEWS}
+      \field{volume}{40}
+      \field{year}{1999}
+      \field{pages}{475\bibrangedash 503}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1111/j.1533-8525.1999.tb01730.x
+      \endverb
+    \endentry
+    \entry{Chong_Framing_Theory}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74a81a438de398d80d824a8abcabe348}{%
+           family={Chong},
+           familyi={C\bibinitperiod},
+           given={Dennis},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0bccfbe9947e9e285fc2ab4c20df77b8}{%
+           family={Druckman},
+           familyi={D\bibinitperiod},
+           given={James\bibnamedelima N.},
+           giveni={J\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{fullhash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{bibnamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authorbibnamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authornamehash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \strng{authorfullhash}{b088cc7a2eb1062f72d9cdf6182aaad3}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{issn}{0021-9916}
+      \field{journaltitle}{Journal of Communication}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{A Theory of Framing and Opinion Formation in Competitive Elite Environments}
+      \field{volume}{57}
+      \field{year}{2007}
+      \field{pages}{99\bibrangedash 118}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/j.1460-2466.2006.00331.x
+      \endverb
+    \endentry
+    \entry{mediatized_disasters}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
+           family={Cottle},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{fullhash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{bibnamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authorbibnamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authornamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authorfullhash}{af518ca6d1abc0f7b38651d4d7359629}
+      \field{extraname}{1}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Oxford Handbook of Cultural Sociology}
+      \field{month}{01}
+      \field{title}{Mediatized Disasters in the Global Age: On the Ritualization of Catastrophe}
+      \field{year}{2012}
+      \verb{doi}
+      \verb 10.1093/oxfordhb/9780195377767.013.10
+      \endverb
+    \endentry
+    \entry{cottle}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
+           family={Cottle},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{fullhash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{bibnamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authorbibnamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authornamehash}{af518ca6d1abc0f7b38651d4d7359629}
+      \strng{authorfullhash}{af518ca6d1abc0f7b38651d4d7359629}
+      \field{extraname}{2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Media, War \& Conflict}
+      \field{number}{1}
+      \field{title}{Rethinking media and disasters in a global age: {What}'s changed and why it matters}
+      \field{volume}{7}
+      \field{year}{2014}
+      \field{pages}{3\bibrangedash 22}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1177/1750635213513229
+      \endverb
+    \endentry
+    \entry{Dor_Relevance_Opti}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d72b3122af1a34eb24377534b89da7eb}{%
+           family={Dor},
+           familyi={D\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{fullhash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{bibnamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authorbibnamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authornamehash}{d72b3122af1a34eb24377534b89da7eb}
+      \strng{authorfullhash}{d72b3122af1a34eb24377534b89da7eb}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Journal of Pragmatics - J PRAGMATICS}
+      \field{month}{05}
+      \field{title}{On Newspaper Headlines as Relevance Optimizers}
+      \field{volume}{35}
+      \field{year}{2003}
+      \verb{doi}
+      \verb 10.1016/S0378-2166(02)00134-0
+      \endverb
+    \endentry
+    \entry{Entman1993}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ea4997e0d857e9f13cb80589ab0ed40d}{%
+           family={Entman},
+           familyi={E\bibinitperiod},
+           given={Robert\bibnamedelima M.},
+           giveni={R\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \strng{fullhash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \strng{bibnamehash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \strng{authorbibnamehash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \strng{authornamehash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \strng{authorfullhash}{ea4997e0d857e9f13cb80589ab0ed40d}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Journal of Communication}
+      \field{number}{4}
+      \field{title}{Framing: Toward clarification of a fractured paradigm}
+      \field{volume}{43}
+      \field{year}{1993}
+      \field{pages}{51\bibrangedash 58}
+      \range{pages}{8}
+    \endentry
+    \entry{Encoding-Decoding}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3ebfef3a72f8b555e6385b184e0bf40f}{%
+           family={Hall},
+           familyi={H\bibinitperiod},
+           given={Stuart},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6d5f84a9090097ef25b2050e1e2ce375}{%
+           family={Hobson},
+           familyi={H\bibinitperiod},
+           given={Dorothy},
+           giveni={D\bibinitperiod}}}%
+        {{hash=f530d279b886072a7c8ceda3c677e290}{%
+           family={Lowe},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=398cdd16e889e4791233cad096488a7b}{%
+           family={Willis},
+           familyi={W\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {London}%
+      }
+      \list{publisher}{1}{%
+        {Hutchinson}%
+      }
+      \strng{namehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{fullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{bibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorbibnamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authornamehash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{authorfullhash}{3ebfef3a72f8b555e6385b184e0bf40f}
+      \strng{editorbibnamehash}{b36cefd7ea82543dad6096110f7c1896}
+      \strng{editornamehash}{f182438c1f1069e3a7b6fbe582e36e27}
+      \strng{editorfullhash}{b36cefd7ea82543dad6096110f7c1896}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Culture, Media, Language: Working Papers in Cultural Studies, 1972--79}
+      \field{title}{Encoding/Decoding}
+      \field{year}{1980}
+      \field{pages}{128\bibrangedash 138}
+      \range{pages}{11}
+    \endentry
+    \entry{Holm_disaster}{inbook}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ff15750f8fa37a804d2f6b24c785fe58}{%
+           family={Holm},
+           familyi={H\bibinitperiod},
+           given={Isak\bibnamedelima Winkel},
+           giveni={I\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=c7ef9351d63db2e8fae4442bd3c017af}{%
+           family={Meiner},
+           familyi={M\bibinitperiod},
+           given={Carsten},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b0e2f1cd6037cba474011ea1a15ac341}{%
+           family={Veel},
+           familyi={V\bibinitperiod},
+           given={Kristin},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin, Boston}%
+      }
+      \list{publisher}{1}{%
+        {De Gruyter}%
+      }
+      \strng{namehash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{fullhash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{bibnamehash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{authorbibnamehash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{authornamehash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{authorfullhash}{ff15750f8fa37a804d2f6b24c785fe58}
+      \strng{editorbibnamehash}{e0cfa32df751e1856a114c10b66f4ed5}
+      \strng{editornamehash}{e0cfa32df751e1856a114c10b66f4ed5}
+      \strng{editorfullhash}{e0cfa32df751e1856a114c10b66f4ed5}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{The Cultural Life of Catastrophes and Crises}
+      \field{isbn}{9783110282955}
+      \field{title}{The Cultural Analysis of Disaster}
+      \field{year}{2012}
+      \field{pages}{15\bibrangedash 32}
+      \range{pages}{18}
+      \verb{doi}
+      \verb doi:10.1515/9783110282955.15
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1515/9783110282955.15
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1515/9783110282955.15
+      \endverb
+    \endentry
+    \entry{amplification_risk}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=27325e3ce319aaabffbb6de204d4c3da}{%
+           family={Kasperson},
+           familyi={K\bibinitperiod},
+           given={Roger\bibnamedelima E.},
+           giveni={R\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d540424be462c768180a7aa88e8a7306}{%
+           family={Renn},
+           familyi={R\bibinitperiod},
+           given={Ortwin},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f98811f35f2a5d68ea95bf9b4def931}{%
+           family={Slovic},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=00dd3e57bb8b5200f060aca690911f23}{%
+           family={Brown},
+           familyi={B\bibinitperiod},
+           given={Halina\bibnamedelima S.},
+           giveni={H\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=555389b20ff13834374d4ba84f3dcf97}{%
+           family={Emel},
+           familyi={E\bibinitperiod},
+           given={Jacque},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7dd8d653ca28e469fabecd9f7950adb1}{%
+           family={Goble},
+           familyi={G\bibinitperiod},
+           given={Robert},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=569848f91a24beb4884abd51f8cc626a}{%
+           family={Kasperson},
+           familyi={K\bibinitperiod},
+           given={Jeanne\bibnamedelima X.},
+           giveni={J\bibinitperiod\bibinitdelim X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5d30a8610eb4e315f3ecd752e9865ae9}{%
+           family={Ratick},
+           familyi={R\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b86542aa30e9a376b96500664c757401}
+      \strng{fullhash}{3ccc45f208911dd1a1b0e69365cf85a5}
+      \strng{bibnamehash}{3ccc45f208911dd1a1b0e69365cf85a5}
+      \strng{authorbibnamehash}{3ccc45f208911dd1a1b0e69365cf85a5}
+      \strng{authornamehash}{b86542aa30e9a376b96500664c757401}
+      \strng{authorfullhash}{3ccc45f208911dd1a1b0e69365cf85a5}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Risk Analysis}
+      \field{number}{2}
+      \field{title}{The Social Amplification of Risk: A Conceptual Framework}
+      \field{volume}{8}
+      \field{year}{1988}
+      \field{pages}{177\bibrangedash 187}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1111/j.1539-6924.1988.tb01168.x
+      \endverb
+    \endentry
+    \entry{Kuiken_Digital_News}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c7519b0d7c73aa53ebb38c06d8eef117}{%
+           family={Kuiken},
+           familyi={K\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5cf950773e43a54e4ddb50735be6646e}{%
+           family={Schuth},
+           familyi={S\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ed69e92799dbaffaeb8c392a779dac4}{%
+           family={Spitters},
+           familyi={S\bibinitperiod},
+           given={Martijn},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ab9210ab077e947f933f5584116ac59c}{%
+           family={Marx},
+           familyi={M\bibinitperiod},
+           given={Maarten},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d9f6352aa9b1c7ccc60cd1d36ab20bd9}
+      \strng{fullhash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{bibnamehash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{authorbibnamehash}{961e2504bf331ad3f0d71e81237777e8}
+      \strng{authornamehash}{d9f6352aa9b1c7ccc60cd1d36ab20bd9}
+      \strng{authorfullhash}{961e2504bf331ad3f0d71e81237777e8}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Digital Journalism}
+      \field{number}{10}
+      \field{title}{Effective Headlines of Newspaper Articles in a Digital Environment}
+      \field{volume}{5}
+      \field{year}{2017}
+      \field{pages}{1300\bibrangedash 1314}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1080/21670811.2017.1279978
+      \endverb
+    \endentry
+    \entry{pragma_linguistic}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2a4f042089356bec5d49689923517793}{%
+           family={Molek-Kozakowska},
+           familyi={M\bibinithyphendelim K\bibinitperiod},
+           given={Katarzyna},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {SAGE Publications Sage UK: London, England}%
+      }
+      \strng{namehash}{2a4f042089356bec5d49689923517793}
+      \strng{fullhash}{2a4f042089356bec5d49689923517793}
+      \strng{bibnamehash}{2a4f042089356bec5d49689923517793}
+      \strng{authorbibnamehash}{2a4f042089356bec5d49689923517793}
+      \strng{authornamehash}{2a4f042089356bec5d49689923517793}
+      \strng{authorfullhash}{2a4f042089356bec5d49689923517793}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Discourse \& communication}
+      \field{number}{2}
+      \field{title}{Towards a pragma-linguistic framework for the study of sensationalism in news headlines}
+      \field{volume}{7}
+      \field{year}{2013}
+      \field{pages}{173\bibrangedash 197}
+      \range{pages}{25}
+    \endentry
+    \entry{Nisbet_Frames}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6a8ad45f5c416b66cd81961cd736b6ed}{%
+           family={Nisbet},
+           familyi={N\bibinitperiod},
+           given={Matthew\bibnamedelima C.},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{fullhash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{bibnamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authorbibnamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authornamehash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \strng{authorfullhash}{6a8ad45f5c416b66cd81961cd736b6ed}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Environment: Science and Policy for Sustainable Development}
+      \field{number}{2}
+      \field{title}{Communicating Climate Change: Why Frames Matter for Public Engagement}
+      \field{volume}{51}
+      \field{year}{2009}
+      \field{pages}{12\bibrangedash 23}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.3200/ENVT.51.2.12-23
+      \endverb
+    \endentry
+    \entry{DisastersandtheMedia}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=dbb8c85711f18988b975f5cdf6ff9296}{%
+           family={{Pantti}},
+           familyi={P\bibinitperiod},
+           given={Mervi},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a359b8cd1d13fa70e9f3a9d311e8bb84}{%
+           family={{Wahl-Jorgensen}},
+           familyi={W\bibinitperiod},
+           given={Karin},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af518ca6d1abc0f7b38651d4d7359629}{%
+           family={{Cottle}},
+           familyi={C\bibinitperiod},
+           given={Simon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {New York, United States of America}%
+      }
+      \list{publisher}{1}{%
+        {Peter Lang Verlag}%
+      }
+      \strng{namehash}{3fb531efff7b60a6f687ed9b4cb876ec}
+      \strng{fullhash}{5c63731da24f18fe528a9ddcb518c265}
+      \strng{bibnamehash}{5c63731da24f18fe528a9ddcb518c265}
+      \strng{authorbibnamehash}{5c63731da24f18fe528a9ddcb518c265}
+      \strng{authornamehash}{3fb531efff7b60a6f687ed9b4cb876ec}
+      \strng{authorfullhash}{5c63731da24f18fe528a9ddcb518c265}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Disasters and the Media}
+      \field{year}{2012}
+      \verb{urlraw}
+      \verb https://www.peterlang.com/document/1109038
+      \endverb
+      \verb{url}
+      \verb https://www.peterlang.com/document/1109038
+      \endverb
+    \endentry
+    \entry{framing_media}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c564a85866f0fff948ec8bd65a0ecb2b}{%
+           family={Scheufele},
+           familyi={S\bibinitperiod},
+           given={DA},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \strng{fullhash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \strng{bibnamehash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \strng{authorbibnamehash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \strng{authornamehash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \strng{authorfullhash}{c564a85866f0fff948ec8bd65a0ecb2b}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Journal of Communication}
+      \field{number}{1}
+      \field{title}{Framing as a theory of media effects}
+      \field{volume}{49}
+      \field{year}{1999}
+      \field{pages}{103\bibrangedash 122}
+      \range{pages}{20}
+      \verb{doi}
+      \verb 10.1111/j.1460-2466.1999.tb02784.x
+      \endverb
+    \endentry
+    \entry{perception_risk}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f98811f35f2a5d68ea95bf9b4def931}{%
+           family={Slovic},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{fullhash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{bibnamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authorbibnamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authornamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authorfullhash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Science}
+      \field{number}{4799}
+      \field{title}{Perception of Risk}
+      \field{volume}{236}
+      \field{year}{1987}
+      \field{pages}{280\bibrangedash 285}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.3563507
+      \endverb
+    \endentry
+    \entry{UPDipe}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d709af6997b3ea76ee9b027f6dda0b00}{%
+           family={Straka},
+           familyi={S\bibinitperiod},
+           given={Milan},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=361a5fb39b897f3a1fae1e021c24ea6e}{%
+           family={Straková},
+           familyi={S\bibinitperiod},
+           given={Jana},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=bf8ce49dbc8185f7f3b7188465c822a7}{%
+           family={Hajič},
+           familyi={H\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3af2449ea717bef5131c6bfdc4f0268d}{%
+           family={Zeman},
+           familyi={Z\bibinitperiod},
+           given={Dan},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Association for Computational Linguistics}%
+      }
+      \strng{namehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{fullhash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{bibnamehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{authorbibnamehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{authornamehash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{authorfullhash}{ba6b5729413eb850549fa6d711f63ee1}
+      \strng{editorbibnamehash}{fe8291f2b60f8b72532f3253098a7891}
+      \strng{editornamehash}{fe8291f2b60f8b72532f3253098a7891}
+      \strng{editorfullhash}{fe8291f2b60f8b72532f3253098a7891}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the {C}o{NLL} 2017 Shared Task: Multilingual Parsing from Raw Text to Universal Dependencies}
+      \field{title}{Tokenizing, {POS} Tagging, Lemmatizing and Parsing {UD} 2.0 with {UDP}ipe}
+      \field{year}{2017}
+      \field{pages}{88\bibrangedash 99}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.18653/v1/K17-3009
+      \endverb
+      \verb{urlraw}
+      \verb https://aclanthology.org/K17-3009/
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/K17-3009/
+      \endverb
+    \endentry
+    \entry{2008_ancora}{inproceedings}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e0f06789f451625ac4b346306263a616}{%
+           family={Taulé},
+           familyi={T\bibinitperiod},
+           given={Mariona},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57ff307e90462019444847cf8070c487}{%
+           family={Martí},
+           familyi={M\bibinitperiod},
+           given={M.\bibnamedelimi Antònia},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6fb5621d8dc9473866fdb52e884cdf09}{%
+           family={Recasens},
+           familyi={R\bibinitperiod},
+           given={Marta},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{7}{}{%
+        {{hash=c341e33a4b6ea903f6c723a46650c1be}{%
+           family={Calzolari},
+           familyi={C\bibinitperiod},
+           given={Nicoletta},
+           giveni={N\bibinitperiod}}}%
+        {{hash=39867e26feb655084bcaa95ee00ad1b3}{%
+           family={Choukri},
+           familyi={C\bibinitperiod},
+           given={Khalid},
+           giveni={K\bibinitperiod}}}%
+        {{hash=f89d93ac385cd2c8048bd80b6bec272c}{%
+           family={Maegaard},
+           familyi={M\bibinitperiod},
+           given={Bente},
+           giveni={B\bibinitperiod}}}%
+        {{hash=bdf0b8f2adba0ed452d8c7a080e79edb}{%
+           family={Mariani},
+           familyi={M\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=663e887ebca3a6dfcd35d2bbf8163b42}{%
+           family={Odijk},
+           familyi={O\bibinitperiod},
+           given={Jan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=9d79dd4fb50589491e453c48e1d3c56a}{%
+           family={Piperidis},
+           familyi={P\bibinitperiod},
+           given={Stelios},
+           giveni={S\bibinitperiod}}}%
+        {{hash=8c350023b6a37b3ba3f36e76733c22a0}{%
+           family={Tapias},
+           familyi={T\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Marrakech, Morocco}%
+      }
+      \list{publisher}{1}{%
+        {European Language Resources Association (ELRA)}%
+      }
+      \strng{namehash}{56451eff52928882fcc8d5c7b02d5444}
+      \strng{fullhash}{28f1a5697c4cdacade20062ffe60c3e3}
+      \strng{bibnamehash}{28f1a5697c4cdacade20062ffe60c3e3}
+      \strng{authorbibnamehash}{28f1a5697c4cdacade20062ffe60c3e3}
+      \strng{authornamehash}{56451eff52928882fcc8d5c7b02d5444}
+      \strng{authorfullhash}{28f1a5697c4cdacade20062ffe60c3e3}
+      \strng{editorbibnamehash}{9b1a6409356ff53701ba9b17a5d84bdc}
+      \strng{editornamehash}{c0f71bf98493a021e0ad741a5193b2ff}
+      \strng{editorfullhash}{9b1a6409356ff53701ba9b17a5d84bdc}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of the Sixth International Conference on Language Resources and Evaluation ({LREC}'08)}
+      \field{month}{5}
+      \field{title}{{A}n{C}ora: Multilevel Annotated Corpora for {C}atalan and {S}panish}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb https://aclanthology.org/L08-1222/
+      \endverb
+      \verb{url}
+      \verb https://aclanthology.org/L08-1222/
+      \endverb
+    \endentry
+    \entry{Thompson1995}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6dd4912e5e4720bc129473e488bd729e}{%
+           family={Thompson},
+           familyi={T\bibinitperiod},
+           given={John\bibnamedelima Bodine},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Stanford University Press}%
+      }
+      \strng{namehash}{6dd4912e5e4720bc129473e488bd729e}
+      \strng{fullhash}{6dd4912e5e4720bc129473e488bd729e}
+      \strng{bibnamehash}{6dd4912e5e4720bc129473e488bd729e}
+      \strng{authorbibnamehash}{6dd4912e5e4720bc129473e488bd729e}
+      \strng{authornamehash}{6dd4912e5e4720bc129473e488bd729e}
+      \strng{authorfullhash}{6dd4912e5e4720bc129473e488bd729e}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The Media and Modernity: A Social Theory of the Media}
+      \field{year}{1995}
+    \endentry
+    \entry{vandijk1988}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=aadddb10f6ecf04c73bc1a650f40fd91}{%
+           family={Van\bibnamedelima Dijk},
+           familyi={V\bibinitperiod\bibinitdelim D\bibinitperiod},
+           given={Teun},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Hillsdale, NJ}%
+      }
+      \list{publisher}{1}{%
+        {Lawrence Erlbaum Associates}%
+      }
+      \strng{namehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{fullhash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{bibnamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authorbibnamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authornamehash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \strng{authorfullhash}{aadddb10f6ecf04c73bc1a650f40fd91}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{News as Discourse}
+      \field{year}{1988}
+    \endentry
+    \entry{news_framming}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48be10c4ba00a65907bf884648ce0bf5}{%
+           family={Vreese},
+           familyi={V\bibinitperiod},
+           given={Claes},
+           giveni={C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{fullhash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{bibnamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authorbibnamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authornamehash}{48be10c4ba00a65907bf884648ce0bf5}
+      \strng{authorfullhash}{48be10c4ba00a65907bf884648ce0bf5}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Information Design Journal}
+      \field{month}{04}
+      \field{title}{News Framing: Theory and Typology}
+      \field{volume}{13}
+      \field{year}{2005}
+      \field{pages}{51\bibrangedash 62}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1075/idjdd.13.1.06vre
+      \endverb
+    \endentry
+    \entry{Fear_appeal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d69039e5304387025e35472cc105bf6e}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{fullhash}{d69039e5304387025e35472cc105bf6e}
+      \strng{bibnamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authorbibnamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authornamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authorfullhash}{d69039e5304387025e35472cc105bf6e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Communication Monographs}
+      \field{number}{4}
+      \field{title}{Putting the fear back into fear appeals: The extended parallel process model}
+      \field{volume}{59}
+      \field{year}{1992}
+      \field{pages}{329\bibrangedash 349}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/03637759209376276
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
