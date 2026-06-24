@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber generated/main"] 1781593812.26069 "generated/main.bcf" "generated/main.bbl" "generated/main" 1781597151.54822 0
-  "generated/main.bcf" 1781597151.47558 204996 b4fb23552c214876ef9e253f466f83cc "pdflatex"
-  "refs.bib" 1781516153.43077 7183 6b87f1605e43788767604623ece6f24a ""
+["biber generated/main"] 1782301500.26666 "generated/main.bcf" "generated/main.bbl" "generated/main" 1782302442.46888 0
+  "generated/main.bcf" 1782302442.38239 205930 258e20983df91dd059e3c1f21fd42088 "pdflatex"
+  "refs.bib" 1782297364.24471 7927 d8ea0b8839f77e31e99faefeeb79d81e ""
   (generated)
   "generated/main.bbl"
   "generated/main.blg"
   (rewritten before read)
-["pdflatex"] 1781597150.21517 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1781597151.54865 0
+["pdflatex"] 1782302440.8081 "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" "generated/main.pdf" "main" 1782302442.4693 0
   "/etc/texmf/web2c/texmf.cnf" 1753879975.88063 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/reinaldo/Escritorio/BCAM-CFAA/DANA/DANA_Alarmism/main.tex" 1781165059.39019 2825 d9469846e3352e3922ff0de6c1e42593 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -212,11 +212,11 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1753879999.09965 5472669 54eaf61a88b6b7896ebd0dac973cb29c ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1753880040 8214415 14b9ec0144642406b62c56b45f6d0fd5 ""
-  "generated/main.aux" 1781597151.47358 6449 9333fa31d93f186fc50f6756555e89b5 "pdflatex"
-  "generated/main.bbl" 1781593812.90114 35673 a0a7aa8c546568d69b63bc76841c0cd3 "biber generated/main"
-  "generated/main.out" 1781597151.47458 1016 172d526be84a242cf13aaa9fcbd90ddd "pdflatex"
-  "generated/main.run.xml" 1781597151.47658 2401 5dad728d02f25d4cf231d9a4ac2e69fc "pdflatex"
-  "intro.tex" 1781597148.56158 14633 e6277a8ddade711e3ced7a84004c90c8 ""
+  "generated/main.aux" 1782302442.37739 7830 fa260d00a66d3dd52d5f9e2261fb9fbf "pdflatex"
+  "generated/main.bbl" 1782301501.00306 38200 ce38aa9d3a70b716d3fb71f53bb5563b "biber generated/main"
+  "generated/main.out" 1782302442.38139 1016 172d526be84a242cf13aaa9fcbd90ddd "pdflatex"
+  "generated/main.run.xml" 1782302442.38339 2401 5dad728d02f25d4cf231d9a4ac2e69fc "pdflatex"
+  "intro.tex" 1782302437.52038 19125 aa484ef0f8b16cf84dd7d2318254d016 ""
   "main.tex" 1781165059.39019 2825 d9469846e3352e3922ff0de6c1e42593 ""
   "materials.tex" 1780902904.8499 8665 836f43e51dfe5f36b79c206ac8f2d8f1 ""
   (generated)

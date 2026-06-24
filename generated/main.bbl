@@ -672,6 +672,38 @@
       \verb 10.1111/j.1460-2466.1999.tb02784.x
       \endverb
     \endentry
+    \entry{perception_risk}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1f98811f35f2a5d68ea95bf9b4def931}{%
+           family={Slovic},
+           familyi={S\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{fullhash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{bibnamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authorbibnamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authornamehash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \strng{authorfullhash}{1f98811f35f2a5d68ea95bf9b4def931}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Science}
+      \field{number}{4799}
+      \field{title}{Perception of Risk}
+      \field{volume}{236}
+      \field{year}{1987}
+      \field{pages}{280\bibrangedash 285}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1126/science.3563507
+      \endverb
+    \endentry
     \entry{UPDipe}{inproceedings}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d709af6997b3ea76ee9b027f6dda0b00}{%
@@ -912,6 +944,41 @@
       \range{pages}{12}
       \verb{doi}
       \verb 10.1075/idjdd.13.1.06vre
+      \endverb
+    \endentry
+    \entry{Fear_appeal}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d69039e5304387025e35472cc105bf6e}{%
+           family={Witte},
+           familyi={W\bibinitperiod},
+           given={Kim},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Routledge}%
+      }
+      \strng{namehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{fullhash}{d69039e5304387025e35472cc105bf6e}
+      \strng{bibnamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authorbibnamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authornamehash}{d69039e5304387025e35472cc105bf6e}
+      \strng{authorfullhash}{d69039e5304387025e35472cc105bf6e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{author}
+      \field{journaltitle}{Communication Monographs}
+      \field{number}{4}
+      \field{title}{Putting the fear back into fear appeals: The extended parallel process model}
+      \field{volume}{59}
+      \field{year}{1992}
+      \field{pages}{329\bibrangedash 349}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1080/03637759209376276
       \endverb
     \endentry
   \enddatalist
